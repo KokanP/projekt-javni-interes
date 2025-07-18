@@ -6,7 +6,7 @@
 
 **Datum:** 19\. julij 2025
 
-**Avtorji:** Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Gemini)
+**Avtorji:** Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida Gemini)
 
 ### **Kazalo**
 

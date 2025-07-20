@@ -1,55 +1,55 @@
-# **Bela Knjiga: Projekt "Javni Interes"**
+# **Bela knjiga: Projekt "Javni interes"**
 
 ### **Platforma za državljansko preiskovalno novinarstvo**
 
-**Verzija:** 1.1
-
-**Datum:** 19\. julij 2025
-
-**Avtorji:** Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida I. Gemini)
+Verzija: 1.5  
+Datum: 20\. julij 2025  
+Avtorji: Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida I. Gemini)
 
 ### **Kazalo**
 
-1. **Povzetek**  
-2. **Uvod: Kriza zaupanja in priložnost za revolucijo**  
-   * 2.1. Problem: Erozija medijske krajine  
-   * 2.2. Priložnost: Novinarstvo kot storitev za javnost  
-3. **Vizija in Poslanstvo**  
+1. Povzetek  
+2. Uvod: kriza zaupanja in priložnost za revolucijo  
+   * 2.1. Problem: erozija medijske krajine  
+   * 2.2. Priložnost: novinarstvo kot storitev za javnost  
+3. Vizija in poslanstvo  
    * 3.1. Vizija  
    * 3.2. Poslanstvo  
-4. **Koncept in Delovanje Platforme: Ekosistem Javnega Interesa**  
-   * 4.1. Faza 1: Predlog Teme (Demokratizacija agende)  
-   * 4.2. Faza 2: Selekcija in Prioritizacija (Uredništvo v službi javnosti)  
-   * 4.3. Faza 3: Preiskava (Novinarska obrt na steroidih)  
-   * 4.4. Faza 4: Objava (Radikalna transparentnost)  
-   * 4.5. Faza 5: Vpliv (Spremljanje sprememb)  
-5. **Pravni in Etični Okvir: Temelji Kredibilnosti**  
-   * 5.1. Pravna Oblika: Zavod  
-   * 5.2. Status Medija: Vpis v Razvid medijev  
-   * 5.3. Odgovorni Urednik: Hrbtenica odgovornosti  
-   * 5.4. Etični Kodeks  
-6. **Tehnološka Zasnova**  
-   * 6.1. Spletna Platforma  
-   * 6.2. Uporaba Umetne Inteligence (AI)  
-   * 6.3. Varnost in Zasebnost  
-7. **Organizacijska Struktura in Ekipa**  
-   * 7.1. Ključne Vloge  
-   * 7.2. Svet Zavoda  
-8. **Finančni Model in Vzdržnost**  
-   * 8.1. Neprofitni Model z Diverzificiranimi Viri  
-   * 8.2. Okvirni Proračun za Prvo Leto  
-9. **Načrt Izvedbe (Roadmap)**  
-   * Faza 0: Pripravljalna Faza (Meseci 0-3)  
-   * Faza 1: Razvoj in Vzpostavitev (Meseci 3-6)  
-   * Faza 2: Zagonska Faza (Beta) (Meseci 6-12)  
-   * Faza 3: Polno Delovanje in Rast (Meseci 12+)  
-10. **Merjenje Uspeha in Vpliva**  
-11. **Zaključek: Ponovno Opredeljevanje Novinarstva**  
-12. **Licenca**
+4. Koncept in delovanje platforme: ekosistem Javnega interesa  
+   * 4.1. Faza 1: Predlog teme (demokratizacija agende)  
+   * 4.2. Faza 2: Selekcija in prioritizacija (uredništvo v službi javnosti)  
+   * 4.3. Faza 3: Preiskava (novinarska obrt na steroidih)  
+   * 4.4. Faza 4: Objava (radikalna transparentnost)  
+   * 4.5. Faza 5: Vpliv (spremljanje sprememb)  
+5. Pravni in etični okvir: temelji kredibilnosti  
+   * 5.1. Pravna oblika: zavod  
+   * 5.2. Status medija: vpis v Razvid medijev  
+   * 5.3. Odgovorni urednik: hrbtenica odgovornosti  
+   * 5.4. Etični kodeks  
+   * 5.5. Politika financiranja in zagotavljanje neodvisnosti  
+   * 5.6. Zaščita žvižgačev in aktivno spodbujanje virov  
+6. Tehnološka zasnova  
+   * 6.1. Spletna platforma  
+   * 6.2. Uporaba umetne inteligence (AI)  
+   * 6.3. Varnost in zasebnost  
+7. Organizacijska struktura in ekipa  
+   * 7.1. Hibridni model ekipe ("Lean Model")  
+   * 7.2. Svet zavoda  
+8. Finančni model in vzdržnost  
+   * 8.1. Neprofitni model z diverzificiranimi viri  
+   * 8.2. Okvirni proračun za prvo leto (vitki model)  
+9. Načrt izvedbe (Roadmap)  
+   * Faza 0: Pripravljalna faza (meseci 0-3)  
+   * Faza 1: Razvoj in vzpostavitev (meseci 3-6)  
+   * Faza 2: Zagonska faza (beta) (meseci 6-12)  
+   * Faza 3: Polno delovanje in rast (meseci 12+)  
+10. Merjenje uspeha in vpliva  
+11. Zaključek: ponovno opredeljevanje novinarstva  
+12. Licenca
 
 ### **1\. Povzetek**
 
-Projekt "Javni Interes" je hibridna medijska platforma, ki združuje moč državljanskega nadzora z orodji profesionalnega preiskovalnega novinarstva. V času, ko se zaupanje v medije in institucije krha, "Javni Interes" ponuja radikalno rešitev: **novinarstvo, katerega agendo neposredno sooblikuje javnost, ki ji služi.**
+Projekt "Javni interes" je hibridna medijska platforma, ki združuje moč državljanskega nadzora z orodji profesionalnega preiskovalnega novinarstva. V času, ko se zaupanje v medije in institucije krha, "Javni interes" ponuja radikalno rešitev: **novinarstvo, katerega agendo neposredno sooblikuje javnost, ki ji služi.**
 
 Platforma bo državljanom omogočila predlaganje in glasovanje o temah, ki zadevajo porabo javnega denarja, delovanje institucij in druge zadeve v javnem interesu. Ekipa profesionalnih novinarjev bo nato te predloge, z največjo podporo javnosti, preiskala z uporabo vseh zakonskih sredstev (ZDIJZ), napredne analize podatkov (vključno z AI) in klasičnega novinarskega dela.
 
@@ -57,9 +57,9 @@ Rezultati bodo objavljeni v dveh slojih: kot surovi, neobdelani podatki za popol
 
 Naš cilj ni manjši kot revolucionirati slovensko medijsko krajino z vzpostavitvijo novega modela, kjer novinarstvo ni več enosmeren tok informacij, ampak partnerski odnos med medijem in državljani v iskanju resnice in odgovornosti.
 
-### **2\. Uvod: Kriza zaupanja in priložnost za revolucijo**
+### **2\. Uvod: kriza zaupanja in priložnost za revolucijo**
 
-#### **2.1. Problem: Erozija medijske krajine**
+#### **2.1. Problem: erozija medijske krajine**
 
 Slovenska (in globalna) medijska krajina se sooča z več eksistencialnimi izzivi:
 
@@ -68,16 +68,16 @@ Slovenska (in globalna) medijska krajina se sooča z več eksistencialnimi izziv
 * **Odtujenost javnosti:** Ljudje se počutijo nemočne in preslišane. Njihove skrbi se redko prebijejo v ospredje medijskega poročanja.  
 * **Informacijska preobremenitev:** Organi javne oblasti novinarje in javnost pogosto zasujejo z ogromnimi količinami nestrukturiranih podatkov, kar onemogoča učinkovit nadzor.
 
-#### **2.2. Priložnost: Novinarstvo kot storitev za javnost**
+#### **2.2. Priložnost: novinarstvo kot storitev za javnost**
 
-Ta kriza je hkrati naša največja priložnost. "Javni Interes" ne poskuša popraviti starega modela, ampak ustvarja novega, ki temelji na naslednjih predpostavkah:
+Ta kriza je hkrati naša največja priložnost. "Javni interes" ne poskuša popraviti starega modela, ampak ustvarja novega, ki temelji na naslednjih predpostavkah:
 
 * Javnost najbolje ve, kaj jo zanima in skrbi.  
 * Transparentnost ni le cilj, ampak tudi metoda.  
 * Tehnologija (še posebej AI) lahko demokratizira analizo podatkov.  
 * Neodvisnost je mogoča le z diverzificiranim, neprofitnim financiranjem.
 
-### **3\. Vizija in Poslanstvo**
+### **3\. Vizija in poslanstvo**
 
 #### **3.1. Vizija**
 
@@ -85,18 +85,18 @@ Transparentna in odgovorna družba, kjer informirani in angažirani državljani 
 
 #### **3.2. Poslanstvo**
 
-Poslanstvo projekta "Javni Interes" je preiskovati teme v javnem interesu, ki jih predlagajo državljani. Z uporabo pravnih orodij, podatkovne analitike in novinarskih metod razkrivamo dejstva, objavljamo ugotovitve na transparenten in razumljiv način ter s tem krepimo demokratični nadzor in spodbujamo pozitivne družbene spremembe.
+Poslanstvo projekta "Javni interes" je preiskovati teme v javnem interesu, ki jih predlagajo državljani. Z uporabo pravnih orodij, podatkovne analitike in novinarskih metod razkrivamo dejstva, objavljamo ugotovitve na transparenten in razumljiv način ter s tem krepimo demokratični nadzor in spodbujamo pozitivne družbene spremembe.
 
-### **4\. Koncept in Delovanje Platforme: Ekosistem Javnega Interesa**
+### **4\. Koncept in delovanje platforme: ekosistem Javnega interesa**
 
 Platforma deluje v petih ključnih fazah, ki tvorijo neprekinjen krog.
 
-#### **4.1. Faza 1: Predlog Teme (Demokratizacija agende)**
+#### **4.1. Faza 1: Predlog teme (demokratizacija agende)**
 
 * Vsak registriran uporabnik lahko odda predlog za preiskavo.  
 * Predlog mora vsebovati jasno vprašanje (npr. "Kdo so bili podizvajalci pri projektu X in kakšne so bile cene njihovih storitev?"), kratek opis, zakaj je tema v javnem interesu, in morebitne že znane informacije.
 
-#### **4.2. Faza 2: Selekcija in Prioritizacija (Uredništvo v službi javnosti)**
+#### **4.2. Faza 2: Selekcija in prioritizacija (uredništvo v službi javnosti)**
 
 * **Glasovanje javnosti:** Uporabniki glasujejo za predloge, ki se jim zdijo najpomembnejši.  
 * **Uredniška presoja:** Uredništvo redno pregleduje predloge z največ glasovi in jih oceni na podlagi transparentnih kriterijev:  
@@ -106,7 +106,7 @@ Platforma deluje v petih ključnih fazah, ki tvorijo neprekinjen krog.
   * **Razpoložljivi viri:** Ali imamo čas in znanje za preiskavo?  
 * Izbrane teme se javno označijo kot "V preiskavi".
 
-#### **4.3. Faza 3: Preiskava (Novinarska obrt na steroidih)**
+#### **4.3. Faza 3: Preiskava (novinarska obrt na steroidih)**
 
 * **ZDIJZ zahteve:** Novinarji vložijo formalne zahteve za dostop do informacij javnega značaja.  
 * **Zbiranje podatkov:** Zbiranje dokumentacije, intervjuji, terensko delo.  
@@ -116,53 +116,49 @@ Platforma deluje v petih ključnih fazah, ki tvorijo neprekinjen krog.
   * Kategorizaciji in označevanju velikega števila dokumentov.  
 * **Sinteza:** Novinarji ugotovitve povežejo v smiselno celoto.
 
-#### **4.4. Faza 4: Objava (Radikalna transparentnost)**
+#### **4.4. Faza 4: Objava (radikalna transparentnost)**
 
 Vsaka končana preiskava je objavljena v dveh delih:
 
 1. **"Knjižnica dokazov":** Vsi pridobljeni dokumenti, tabele in podatki so objavljeni v surovi, iskalni obliki.  
 2. **Preiskovalna zgodba:** Poglobljen, razumljiv in kontekstualiziran članek, ki pojasni ugotovitve, metodologijo in pomen razkritja.
 
-#### **4.5. Faza 5: Vpliv (Spremljanje sprememb)**
+#### **4.5. Faza 5: Vpliv (spremljanje sprememb)**
 
 * Platforma sistematično spremlja odzive na objavljene zgodbe (odzivi institucij, medijev, spremembe zakonodaje, kazenski postopki).  
 * Objavljamo nadaljevanja in posodobitve zgodb.
 
-### **5\. Pravni in Etični Okvir: Temelji Kredibilnosti**
+### **5\. Pravni in etični okvir: temelji kredibilnosti**
 
-#### **5.1. Pravna Oblika: Zavod**
+#### **5.1. Pravna oblika: zavod**
 
-Projekt bo ustanovljen kot **zavod, neprofitna pravna oseba zasebnega prava**. Ta oblika omogoča:
+Projekt bo ustanovljen kot **zavod, neprofitna pravna oseba zasebnega prava**. Ta oblika omogoča jasno opredeljeno neprofitno delovanje in transparentno upravljanje.
 
-* Jasno opredeljeno neprofitno delovanje.  
-* Možnost pridobivanja sredstev iz različnih virov (donacije, razpisi).  
-* Transparentno upravljanje preko Sveta zavoda.
+#### **5.2. Status medija: vpis v Razvid medijev**
 
-#### **5.2. Status Medija: Vpis v Razvid medijev**
+Zavod bo vpisan v Razvid medijev pri Ministrstvu za kulturo. To je **ne-pogajljiv korak**, saj zagotavlja **pravico do zaščite vira informacij** za novinarje in možnost pridobivanja akreditacij.
 
-Zavod bo vpisan v Razvid medijev pri Ministrstvu za kulturo. To je **ne-pogajljiv korak**, saj zagotavlja:
+#### **5.3. Odgovorni urednik: hrbtenica odgovornosti**
 
-* **Pravico do zaščite vira informacij** za novinarje.  
-* Možnost pridobivanja **akreditacij** za dostop do institucij.  
-* Formalni status, ki daje težo pri komunikaciji z organi.
+Imenovan bo odgovorni urednik, ki bo v skladu z Zakonom o medijih odgovarjal za vse objavljene vsebine.
 
-#### **5.3. Odgovorni Urednik**
+#### **5.4. Etični kodeks**
 
-Imenovan bo odgovorni urednik, ki bo v skladu z Zakonom o medijih odgovarjal za vse objavljene vsebine. To zagotavlja profesionalno odgovornost in varuje novinarje.
+Delovanje medija bo temeljilo na najvišjih etičnih standardih: neodvisnost, točnost, preverljivost, pravica do popravka in absolutna zaščita virov.
 
-#### **5.4. Etični Kodeks**
+#### **5.5. Politika financiranja in zagotavljanje neodvisnosti**
 
-Delovanje medija bo temeljilo na najvišjih etičnih standardih:
+Naša finančna neodvisnost je temelj našega obstoja. Zato smo sprejeli celovito **Politiko sprejemanja donacij in zagotavljanja neodvisnosti**, ki temelji na treh stebrih: strogih pravilih o sprejemanju in zavračanju donacij, radikalni transparentnosti vseh finančnih tokov in institucionalnem "požarnem zidu", ki ga predstavlja Svet zavoda. Ta politika zagotavlja, da naše uredniške odločitve ostajajo imune na kakršnekoli zunanje pritiske. Celoten dokument je na voljo v [Politiki sprejemanja donacij in zagotavljanja neodvisnosti](POLITIKA-DONACIJ.md).
 
-* **Neodvisnost:** Neodvisnost od političnih in kapitalskih interesov.  
-* **Točnost in preverljivost:** Vse objavljene informacije morajo biti preverjene.  
-* **Pravica do popravka in odgovora.**  
-* **Transparentnost metodologije:** Jasno razkritje, kako smo prišli do ugotovitev.  
-* **Absolutna zaščita virov.**
+#### **5.6. Zaščita žvižgačev in aktivno spodbujanje virov**
 
-### **6\. Tehnološka Zasnova**
+Zavedamo se, da pogumne posameznike pogosto ovira strah. Zato zaščita virov ni le naša zakonska dolžnost, ampak **ključni del naše strategije in javne obljube.** Naše sporočilo je jasno: **"Žvižgači, ne bojte se več, pridite k nam. Pri nas vašega materiala ne bomo skrili pred javnostjo, temveč ga bomo, če ustreza naši uredniški politiki, preiskali in objavili v obliki članka ali serije člankov."**
 
-#### **6.1. Spletna Platforma**
+Aktivno bomo promovirali varne kanale za komunikacijo in oddajo dokumentov. Načrtujemo vzpostavitev večplastnega sistema za varno in anonimno komunikacijo, ki bo prilagojen različnim stopnjam tehničnega znanja uporabnikov. Podrobnosti o načrtovanih varnostnih protokolih in kanalih so opredeljene v dokumentu [Zaščita žvižgačev](ZASCITA-ZVIZGACEV.md).
+
+### **6\. Tehnološka zasnova**
+
+#### **6.1. Spletna platforma**
 
 Razvita bo po meri, z uporabo sodobnih odprtokodnih tehnologij (npr. Python/Django ali Node.js za backend, React/Vue za frontend). Ključne funkcionalnosti:
 
@@ -171,7 +167,7 @@ Razvita bo po meri, z uporabo sodobnih odprtokodnih tehnologij (npr. Python/Djan
 * Pregledna predstavitev zgodb in knjižnice dokazov.  
 * Optimizacija za mobilne naprave.
 
-#### **6.2. Uporaba Umetne Inteligence (AI)**
+#### **6.2. Uporaba umetne inteligence (AI)**
 
 Ne gre za "čudežno" rešitev, ampak za orodje za pomoč novinarjem. Uporabljali bomo obstoječe in razvijali lastne rešitve za:
 
@@ -179,47 +175,52 @@ Ne gre za "čudežno" rešitev, ampak za orodje za pomoč novinarjem. Uporabljal
 * Obdelavo naravnega jezika (NLP) za iskanje entitet in povezav v besedilih.  
 * Orodja za vizualizacijo podatkov.
 
-#### **6.3. Varnost in Zasebnost**
+#### **6.3. Varnost in zasebnost**
 
 Varnost bo prioriteta. Vsi komunikacijski kanali bodo šifrirani. Še posebej bomo varovali podatke o uporabnikih in komunikacijo z viri.
 
-### **7\. Organizacijska Struktura in Ekipa**
+### **7\. Organizacijska struktura in ekipa**
 
-#### **7.1. Ključne Vloge (začetna ekipa)**
+#### **7.1. Hibridni model ekipe ("Lean Model")**
 
-* **Odgovorni urednik (1):** Vodi in usmerja delo, končna odgovornost.  
-* **Preiskovalni novinar (2-3):** Jedro ekipe, izvajajo preiskave.  
-* **Podatkovni analitik / AI specialist (1):** Upravlja s tehničnim delom analize podatkov.  
-* **Upravitelj skupnosti / Komunikator (1):** Skrbi za platformo, komunikacijo z javnostjo in družbena omrežja.  
-* **Pravni svetovalec (zunanje sodelovanje):** Za pomoč pri ZDIJZ postopkih in tožbah.
+Za zagotovitev finančne vzdržnosti in agilnosti bomo v začetni fazi delovali po hibridnem modelu:
 
-#### **7.2. Svet Zavoda**
+* **Jedro ekipe:**  
+  * **Odgovorni urednik (1, pro bono):** Vodi in usmerja delo, končna odgovornost.  
+  * **Preiskovalni novinar (1, redno zaposlen):** Hrbtenica uredništva, skrbi za kontinuiteto in vodi ključne preiskave.  
+  * **Podatkovni analitik / Komunikator (1, redno zaposlen):** Hibridna vloga, ki združuje tehnično analizo podatkov in upravljanje skupnosti.  
+* **Mreža zunanjih sodelavcev:** Vzpostavili bomo mrežo preverjenih svobodnih novinarjev in strokovnjakov, ki jih bomo najemali za posamezne, jasno opredeljene preiskave preko avtorskih pogodb ali s.p.-jev. To nam omogoča fleksibilnost in dostop do specialističnega znanja.  
+* **Prostovoljci:** Odprti smo za sodelovanje s prostovoljci, ki lahko prispevajo svoje znanje in čas. To je lahko priložnost za mlade novinarje, ki iščejo izkušnje, ali za izkušene novinarje iz drugih medijev, ki bi želeli obdelati temo, ki v njihovi matični hiši ne dobi prostora.
+
+#### **7.2. Svet zavoda**
 
 Sestavljen bo iz uglednih posameznikov iz sveta medijev, prava, civilne družbe in tehnologije, ki bodo nadzirali delo in varovali neodvisnost zavoda.
 
-### **8\. Finančni Model in Vzdržnost**
+### **8\. Finančni model in vzdržnost**
 
-#### **8.1. Neprofitni Model z Diverzificiranimi Viri**
+#### **8.1. Neprofitni model z diverzificiranimi viri**
 
-1. **Donacije posameznikov (članstvo):** Redni mesečni prispevki podpornikov.  
-2. **Projektno financiranje:** Prijave na domače (npr. razpisi Ministrstva za kulturo) in mednarodne (npr. EU) razpise za podporo medijem in demokraciji.  
-3. **Množično financiranje (Crowdfunding):** Zbiranje sredstev za posamezne, posebej obsežne preiskave.  
-4. **Donacije fundacij:** Sodelovanje z domačimi in tujimi fundacijami, ki podpirajo neodvisno novinarstvo.
+Viri financiranja bodo: donacije posameznikov (članstvo), projektno financiranje (domači in mednarodni razpisi), množično financiranje (crowdfunding) in donacije neodvisnih fundacij.
 
-#### **8.2. Okvirni Proračun za Prvo Leto**
+#### **8.2. Okvirni proračun za prvo leto (vitki model)**
+
+Ta ocena temelji na hibridnem modelu ekipe in predstavlja realističen cilj za zagon projekta.
 
 | Postavka | Ocenjen letni strošek (€) |
 | :---- | :---- |
-| Plače in prispevki (5 zaposlenih) | 150.000 |
-| Najemnina in operativni stroški | 15.000 |
-| Stroški platforme (gostovanje, licence) | 10.000 |
-| Pravno svetovanje in sodni stroški | 10.000 |
+| Plače in prispevki (2 zaposlena) | 75.600 |
+| Avtorski honorarji (freelancerji) | 20.000 |
+| Najemnina in operativni stroški | 18.000 |
+| Tehnološka platforma in licence | 10.000 |
+| Pravno svetovanje in sodni stroški | 12.000 |
 | Marketing in promocija | 5.000 |
-| **SKUPAJ (ocena)** | **190.000** |
+| **Vmesni seštevek** | **140.600** |
+| **Rezerva za nepredvidene stroške (10%)** | **14.400** |
+| **SKUPNI CILJNI PRORAČUN (PRVO LETO)** | **155.000** |
 
-### **9\. Načrt Izvedbe (Roadmap)**
+### **9\. Načrt izvedbe (Roadmap)**
 
-#### **Faza 0: Pripravljalna Faza (Meseci 0-3)**
+#### **Faza 0: Pripravljalna faza (meseci 0-3)**
 
 * Ustanovitev zavoda in vpis v register.  
 * Imenovanje odgovornega urednika in Sveta zavoda.  
@@ -227,35 +228,37 @@ Sestavljen bo iz uglednih posameznikov iz sveta medijev, prava, civilne družbe 
 * Zbiranje začetnega kapitala (seed funding).  
 * Oblikovanje jedrne ekipe.
 
-#### **Faza 1: Razvoj in Vzpostavitev (Meseci 3-6)**
+#### **Faza 1: Razvoj in vzpostavitev (meseci 3-6)**
 
 * Razvoj MVP (Minimum Viable Product) verzije platforme.  
 * Vzpostavitev internega delokroga in etičnih smernic.  
 * Začetek grajenja skupnosti na družbenih omrežjih.
 
-#### **Faza 2: Zagonska Faza (Beta) (Meseci 6-12)**
+#### **Faza 2: Zagonska faza (beta) (meseci 6-12)**
 
 * Zagon beta verzije platforme za povabljene uporabnike.  
 * Izvedba prvih 2-3 pilotnih preiskav.  
 * Javna predstavitev projekta in zagon kampanje za množično financiranje.
 
-#### **Faza 3: Polno Delovanje in Rast (Meseci 12+)**
+#### **Faza 3: Polno delovanje in rast (meseci 12+)**
 
 * Polni zagon platforme za vso javnost.  
 * Redni cikel preiskav in objav.  
 * Širitev ekipe glede na finančne zmožnosti.
 
-### **10\. Merjenje Uspeha in Vpliva**
+### **10\. Merjenje uspeha in vpliva**
 
 Uspeh ne bomo merili s kliki, ampak z vplivom.
 
 * **Kvantitativni kazalniki:** Število aktivnih uporabnikov, število predlogov, število objavljenih preiskav, zbrana sredstva.  
 * **Kvalitativni kazalniki:** Število citatov v drugih medijih, sproženi postopki s strani organov (KPK, policija), dosežene spremembe v zakonodaji ali praksi, rast ugleda in zaupanja v medij.
 
-### **11\. Zaključek: Ponovno Opredeljevanje Novinarstva**
+### **11\. Zaključek: ponovno opredeljevanje novinarstva**
 
-"Javni Interes" je več kot le medijski projekt. Je manifest in orodje za aktivno državljanstvo. Je odgovor na apatijo in cinizem. Z združitvijo modrosti množic in vztrajnosti profesionalcev verjamemo, da lahko ustvarimo močnejši, bolj transparenten in pravičnejši javni prostor. Čas je, da novinarstvo vrnemo tistim, ki jim pripada – javnosti. Pridružite se revoluciji.
+"Javni interes" je več kot le medijski projekt. Je manifest in orodje za aktivno državljanstvo. Je odgovor na apatijo in cinizem. Z združitvijo modrosti množic in vztrajnosti profesionalcev verjamemo, da lahko ustvarimo močnejši, bolj transparenten in pravičnejši javni prostor. Čas je, da novinarstvo vrnemo tistim, ki jim pripada – javnosti. Pridružite se revoluciji.
 
 ### **12\. Licenca**
 
-[Projekt Javni Interes](https://projekt-javni-interes.iffy.top) © 2025 by [Michael K. Farfara](https://medium.com/@michael.k.farfara) je licencirano pod licenco [Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0 Mednarodna](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[Projekt Javni interes](https://projekt-javni-interes.iffy.top) © 2025 by [Michael K. Farfara](https://medium.com/@michael.k.farfara) je licencirano pod licenco [Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0 Mednarodna](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Polno, pravno zavezujoče besedilo licence je na voljo v datoteki [LICENSE.md](LICENSE.md).

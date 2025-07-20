@@ -2,8 +2,8 @@
 
 ### **Platforma za državljansko preiskovalno novinarstvo**
 
-Verzija: 1.5  
-Datum: 20\. julij 2025  
+Verzija: 1.6  
+Datum: 20. julij 2025  
 Avtorji: Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida I. Gemini)
 
 ### **Kazalo**
@@ -38,6 +38,7 @@ Avtorji: Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida I
 8. Finančni model in vzdržnost  
    * 8.1. Neprofitni model z diverzificiranimi viri  
    * 8.2. Okvirni proračun za prvo leto (vitki model)  
+   * 8.3. Potencialni viri evropskega financiranja  
 9. Načrt izvedbe (Roadmap)  
    * Faza 0: Pripravljalna faza (meseci 0-3)  
    * Faza 1: Razvoj in vzpostavitev (meseci 3-6)  
@@ -47,7 +48,7 @@ Avtorji: Konceptualna zasnova (Michael K. Farfara), Strateška razdelava (Aida I
 11. Zaključek: ponovno opredeljevanje novinarstva  
 12. Licenca
 
-### **1\. Povzetek**
+### **1. Povzetek**
 
 Projekt "Javni interes" je hibridna medijska platforma, ki združuje moč državljanskega nadzora z orodji profesionalnega preiskovalnega novinarstva. V času, ko se zaupanje v medije in institucije krha, "Javni interes" ponuja radikalno rešitev: **novinarstvo, katerega agendo neposredno sooblikuje javnost, ki ji služi.**
 
@@ -77,7 +78,7 @@ Ta kriza je hkrati naša največja priložnost. "Javni interes" ne poskuša popr
 * Tehnologija (še posebej AI) lahko demokratizira analizo podatkov.  
 * Neodvisnost je mogoča le z diverzificiranim, neprofitnim financiranjem.
 
-### **3\. Vizija in poslanstvo**
+### **3. Vizija in poslanstvo**
 
 #### **3.1. Vizija**
 
@@ -87,7 +88,7 @@ Transparentna in odgovorna družba, kjer informirani in angažirani državljani 
 
 Poslanstvo projekta "Javni interes" je preiskovati teme v javnem interesu, ki jih predlagajo državljani. Z uporabo pravnih orodij, podatkovne analitike in novinarskih metod razkrivamo dejstva, objavljamo ugotovitve na transparenten in razumljiv način ter s tem krepimo demokratični nadzor in spodbujamo pozitivne družbene spremembe.
 
-### **4\. Koncept in delovanje platforme: ekosistem Javnega interesa**
+### **4. Koncept in delovanje platforme: ekosistem Javnega interesa**
 
 Platforma deluje v petih ključnih fazah, ki tvorijo neprekinjen krog.
 
@@ -128,7 +129,7 @@ Vsaka končana preiskava je objavljena v dveh delih:
 * Platforma sistematično spremlja odzive na objavljene zgodbe (odzivi institucij, medijev, spremembe zakonodaje, kazenski postopki).  
 * Objavljamo nadaljevanja in posodobitve zgodb.
 
-### **5\. Pravni in etični okvir: temelji kredibilnosti**
+### **5. Pravni in etični okvir: temelji kredibilnosti**
 
 #### **5.1. Pravna oblika: zavod**
 
@@ -156,7 +157,7 @@ Zavedamo se, da pogumne posameznike pogosto ovira strah. Zato zaščita virov ni
 
 Aktivno bomo promovirali varne kanale za komunikacijo in oddajo dokumentov. Načrtujemo vzpostavitev večplastnega sistema za varno in anonimno komunikacijo, ki bo prilagojen različnim stopnjam tehničnega znanja uporabnikov. Podrobnosti o načrtovanih varnostnih protokolih in kanalih so opredeljene v dokumentu [Zaščita žvižgačev](ZASCITA-ZVIZGACEV.md).
 
-### **6\. Tehnološka zasnova**
+### **6. Tehnološka zasnova**
 
 #### **6.1. Spletna platforma**
 
@@ -179,7 +180,7 @@ Ne gre za "čudežno" rešitev, ampak za orodje za pomoč novinarjem. Uporabljal
 
 Varnost bo prioriteta. Vsi komunikacijski kanali bodo šifrirani. Še posebej bomo varovali podatke o uporabnikih in komunikacijo z viri.
 
-### **7\. Organizacijska struktura in ekipa**
+### **7. Organizacijska struktura in ekipa**
 
 #### **7.1. Hibridni model ekipe ("Lean Model")**
 
@@ -196,11 +197,11 @@ Za zagotovitev finančne vzdržnosti in agilnosti bomo v začetni fazi delovali 
 
 Sestavljen bo iz uglednih posameznikov iz sveta medijev, prava, civilne družbe in tehnologije, ki bodo nadzirali delo in varovali neodvisnost zavoda.
 
-### **8\. Finančni model in vzdržnost**
+### **8. Finančni model in vzdržnost**
 
 #### **8.1. Neprofitni model z diverzificiranimi viri**
 
-Viri financiranja bodo: donacije posameznikov (članstvo), projektno financiranje (domači in mednarodni razpisi), množično financiranje (crowdfunding) in donacije neodvisnih fundacij.
+Viri financiranja bodo: donacije posameznikov (članstvo), množično financiranje (crowdfunding) in donacije neodvisnih fundacij.
 
 #### **8.2. Okvirni proračun za prvo leto (vitki model)**
 
@@ -218,7 +219,11 @@ Ta ocena temelji na hibridnem modelu ekipe in predstavlja realističen cilj za z
 | **Rezerva za nepredvidene stroške (10%)** | **14.400** |
 | **SKUPNI CILJNI PRORAČUN (PRVO LETO)** | **155.000** |
 
-### **9\. Načrt izvedbe (Roadmap)**
+#### **8.3. Potencialni viri evropskega financiranja**
+
+Poleg zgoraj navedenih virov so pomemben steber našega financiranja tudi evropska sredstva. EU preko različnih programov, kot so Ustvarjalna Evropa, CERV in Obzorje Evropa, močno podpira projekte, ki krepijo medijsko svobodo, pluralizem in demokratično participacijo. Podrobnejšo analizo potencialnih programov in skladov smo pripravili v ločenem dokumentu: [Potencialni viri evropskega financiranja](EU-VIRI-FINANCIRANJA.md).
+
+### **9. Načrt izvedbe (Roadmap)**
 
 #### **Faza 0: Pripravljalna faza (meseci 0-3)**
 
@@ -246,18 +251,18 @@ Ta ocena temelji na hibridnem modelu ekipe in predstavlja realističen cilj za z
 * Redni cikel preiskav in objav.  
 * Širitev ekipe glede na finančne zmožnosti.
 
-### **10\. Merjenje uspeha in vpliva**
+### **10. Merjenje uspeha in vpliva**
 
 Uspeh ne bomo merili s kliki, ampak z vplivom.
 
 * **Kvantitativni kazalniki:** Število aktivnih uporabnikov, število predlogov, število objavljenih preiskav, zbrana sredstva.  
 * **Kvalitativni kazalniki:** Število citatov v drugih medijih, sproženi postopki s strani organov (KPK, policija), dosežene spremembe v zakonodaji ali praksi, rast ugleda in zaupanja v medij.
 
-### **11\. Zaključek: ponovno opredeljevanje novinarstva**
+### **11. Zaključek: ponovno opredeljevanje novinarstva**
 
 "Javni interes" je več kot le medijski projekt. Je manifest in orodje za aktivno državljanstvo. Je odgovor na apatijo in cinizem. Z združitvijo modrosti množic in vztrajnosti profesionalcev verjamemo, da lahko ustvarimo močnejši, bolj transparenten in pravičnejši javni prostor. Čas je, da novinarstvo vrnemo tistim, ki jim pripada – javnosti. Pridružite se revoluciji.
 
-### **12\. Licenca**
+### **12. Licenca**
 
 [Projekt Javni interes](https://projekt-javni-interes.iffy.top) © 2025 by [Michael K. Farfara](https://medium.com/@michael.k.farfara) je licencirano pod licenco [Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0 Mednarodna](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 

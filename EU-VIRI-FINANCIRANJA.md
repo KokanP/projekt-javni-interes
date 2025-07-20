@@ -46,7 +46,7 @@ To je glavni program EU za raziskave in inovacije. Primeren je, če želimo poud
 
 Poleg neposrednih programov EU obstajajo tudi neodvisni skladi, ki jih pogosto sofinancira Evropska komisija. Ti so pogosto bolj fleksibilni in lažje dostopni.
 
-* [**Investigative Journalism for Europe (IJ4EU) Fund**](https://www.ij4eu.eu/):  
+* [**Investigative Journalism for Europe (IJ4EU) Fund**](https://investigativejournalismforeu.net/):  
   * **Zakaj je relevanten?** To je **najpomembnejši sklad** za preiskovalno novinarstvo v Evropi. Neposredno financira čezmejne preiskovalne projekte. Je idealen za financiranje posameznih, večjih zgodb, ki bi jih delali v sodelovanju z novinarji iz Avstrije, Italije ali Hrvaške.  
   * **Kaj financira?** Skoraj vse stroške, povezane s preiskavo: honorarje za novinarje, potne stroške, stroške prevajanja, pravne stroške.
 
@@ -54,5 +54,5 @@ Poleg neposrednih programov EU obstajajo tudi neodvisni skladi, ki jih pogosto s
 
 * **Partnerstva so ključna:** Večina evropskih pozivov daje prednost projektom, ki vključujejo partnerje iz več držav članic. Začeli bomo graditi mrežo stikov s podobnimi organizacijami v tujini.  
 * **Priprava je dolgotrajna:** Zavedamo se, da je pisanje prijav za evropska sredstva kompleksen in dolgotrajen proces. Priprav se bomo lotili zgodaj in po potrebi poiskali pomoč strokovnjakov za pisanje EU projektov.  
-* **Povezovanje z nacionalno točko:** Povezali se bomo z nacionalnimi kontaktnimi točkami, kot je [**CED Slovenija (Center Ustvarjalna Evropa)**](https://ced-slovenija.eu/), ki nudijo brezplačno pomoč in svetovanje. So odličen vir informacij.  
+* **Povezovanje z nacionalno točko:** Povezali se bomo z nacionalnimi kontaktnimi točkami, kot je [**CED Slovenija (Center Ustvarjalna Evropa)**](https://ced-slovenia.eu/), ki nudijo brezplačno pomoč in svetovanje. So odličen vir informacij.  
 * **Diverzifikacija virov:** Ne bomo se osredotočali le na en vir. Naš finančni model mora biti diverzificiran; evropska sredstva bodo en steber, poleg donacij posameznikov in fundacij.

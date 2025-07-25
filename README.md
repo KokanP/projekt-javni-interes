@@ -264,6 +264,6 @@ Uspeh ne bomo merili s kliki, ampak z vplivom.
 
 ### **12. Licenca**
 
-[Projekt Javni interes](https://projekt-javni-interes.iffy.top) © 2025 by [Michael K. Farfara](https://medium.com/@michael.k.farfara) je licencirano pod licenco [Creative Commons Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 4.0 Mednarodna](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[Projekt Javni interes](https://projekt-javni-interes.iffy.top) © 2025 by [Michael K. Farfara](https://medium.com/@michael.k.farfara) je licencirano pod licenco [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Polno, pravno zavezujoče besedilo licence je na voljo v datoteki [LICENSE.md](LICENSE.md).
